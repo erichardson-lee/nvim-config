@@ -89,6 +89,11 @@ _G.packer_plugins = {
     path = "/home/edward/.local/share/nvim/site/pack/packer/start/cmp-nvim-lsp",
     url = "https://github.com/hrsh7th/cmp-nvim-lsp"
   },
+  ["deno-nvim"] = {
+    loaded = true,
+    path = "/home/edward/.local/share/nvim/site/pack/packer/start/deno-nvim",
+    url = "https://github.com/sigmasd/deno-nvim"
+  },
   harpoon = {
     loaded = true,
     path = "/home/edward/.local/share/nvim/site/pack/packer/start/harpoon",

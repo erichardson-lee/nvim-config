@@ -20,6 +20,7 @@ return require('packer').startup(function(use)
     use('mbbill/undotree')
     use('tpope/vim-fugitive')
     use('eandrju/cellular-automaton.nvim')
+    use('sigmasd/deno-nvim')
 
     use {
         'VonHeikemen/lsp-zero.nvim',
